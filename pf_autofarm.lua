@@ -6,6 +6,8 @@
 	you can additionally implement a map check for it to only run on preferrable maps like second storm and so on 
 	
 	i will probably implement a few improvements later on, like some cool movement improvements and the map selecting feature mentioned above
+	
+	btw should run on almost any executor with almost no changes as it does not use many executor dependant functions ( except for a selected few ) 
 --======================================================================--
 ]]--
 
